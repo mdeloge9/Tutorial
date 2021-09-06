@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns:kml="http://earth.google.com/kml/2.2">
+  <Document id="featureCollection">
+<Style id="defaultStyle">
+  <LineStyle>
+    <width>1.5</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>7d8a30c4</color>
+  </PolyStyle>
+</Style>
+  <Folder><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="edit_date"><value></value></Data><Data name="global_id"><value>{2938C341-A4B0-4CF5-BD19-88089AEA1126}</value></Data><Data name="location"><value>Broadway at Boardman St</value></Data><Data name="map_id"><value>11</value></Data><Data name="park"><value>Squirrel Brand Community Garden</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -71.0968274603121,42.36740551920392
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="edit_date"><value></value></Data><Data name="global_id"><value>{11D8ECCF-66DA-4AAB-A754-DA13887C9704}</value></Data><Data name="location"><value>Walden St</value></Data><Data name="map_id"><value>4</value></Data><Data name="park"><value>Corcoran Park Community Garden</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -71.12845369210959,42.386810828784526
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="edit_date"><value></value></Data><Data name="global_id"><value>{0F4EE986-F741-4B67-963C-584EBAA47F6D}</value></Data><Data name="location"><value>650 Concord Ave</value></Data><Data name="map_id"><value>1</value></Data><Data name="park"><value>William G. Maher Park Comm. Garden</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -71.14916800962276,42.38887236913078
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="edit_date"><value></value></Data><Data name="global_id"><value>{A679D0C5-1C39-46BF-8E90-160D490806A9}</value></Data><Data name="location"><value>Green St at Bay St</value></Data><Data name="map_id"><value>7</value></Data><Data name="park"><value>Green Street Neighborhood Garden</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -71.11100708142155,42.36850813977922
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="edit_date"><value></value></Data><Data name="global_id"><value>{0EDA1FC8-A851-4DFD-8AEE-E220487FE3D2}</value></Data><Data name="location"><value>Pemberton St</value></Data><Data name="map_id"><value>3</value></Data><Data name="park"><value>McMath Park Community Garden</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -71.12730245134264,42.38993519897214
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="edit_date"><value></value></Data><Data name="global_id"><value>{AE9DF86D-B80B-4EF8-BD1F-BFBA0C6DB6BA}</value></Data><Data name="location"><value>Moore St</value></Data><Data name="map_id"><value>12</value></Data><Data name="park"><value>Moore Street Community Garden</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -71.09400390103553,42.365937834109715
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="edit_date"><value></value></Data><Data name="global_id"><value>{A2DF1047-C1B9-4F75-A6C0-DFE3243B7A5E}</value></Data><Data name="location"><value>Watson St</value></Data><Data name="map_id"><value>9</value></Data><Data name="park"><value>Peggy Hayes Memorial Garden</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -71.1043101383121,42.36190908185288
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="edit_date"><value></value></Data><Data name="global_id"><value>{F3DACC73-06EF-4EBC-965A-91CCD956B96C}</value></Data><Data name="location"><value>Sacramento St</value></Data><Data name="map_id"><value>5</value></Data><Data name="park"><value>Sacramento Street Community Garden</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -71.11756417041825,42.38277356016607
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="edit_date"><value></value></Data><Data name="global_id"><value>{5B609DBA-E2EB-49BD-961D-750998F92B43}</value></Data><Data name="location"><value>Brookline St at Emily St</value></Data><Data name="map_id"><value>10</value></Data><Data name="park"><value>Emily Garden</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -71.10492258195386,42.36003074991484
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="edit_date"><value></value></Data><Data name="global_id"><value>{8C95DFF2-946A-4BF5-9E37-A904513B7210}</value></Data><Data name="location"><value>Banks St at Akron St</value></Data><Data name="map_id"><value>6</value></Data><Data name="park"><value>Field of Dreams Garden</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -71.1142988745778,42.36609496573893
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="edit_date"><value>2016</value></Data><Data name="global_id"><value>{912DF9E2-9A34-493B-8991-B701E4CDE954}</value></Data><Data name="location"><value>Hurley St</value></Data><Data name="map_id"><value>13</value></Data><Data name="park"><value>Hurley Park Community Garden</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -71.08284454340327,42.36845731362227
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="edit_date"><value></value></Data><Data name="global_id"><value>{D2C9DBFA-9336-4EA8-A9A7-DF4A2BBFA173}</value></Data><Data name="location"><value>Lopez Ave at Charles St</value></Data><Data name="map_id"><value>14</value></Data><Data name="park"><value>Anthony Costa Park Community Garden</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -71.07980041456499,42.367659581271624
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="edit_date"><value>2012</value></Data><Data name="global_id"><value>{02E765CE-A05A-4DD6-A501-7516AFE30F25}</value></Data><Data name="location"><value>Memorial Dr at River St</value></Data><Data name="map_id"><value>8</value></Data><Data name="park"><value>Riverside Press Park</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -71.11580219968894,42.36225156539403
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="edit_date"><value></value></Data><Data name="global_id"><value>{36CE610B-2B46-4D81-9182-C09C6D3C031F}</value></Data><Data name="location"><value>Fresh Pond Parkway</value></Data><Data name="map_id"><value>2</value></Data><Data name="park"><value>Fresh Pond Res./Parkway Garden</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -71.14186035913639,42.384818443966076
+    </coordinates></Point>
+    </Placemark></Folder>  </Document>
+  </kml>
